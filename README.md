@@ -2,6 +2,10 @@
 
 Un parcours documentaire en francais est disponible dans [docs/fr/](docs/fr/).
 
+## Parcours francais
+
+Un parcours documentaire en francais est disponible dans [docs/fr/](docs/fr/).
+
 # `contracts`
 
 The smart contracts that power the Hop Exchange.
